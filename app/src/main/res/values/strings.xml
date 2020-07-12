@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework7</string>
+    <string name="oak_text">Дуб</string>
+    <string name="cactus_text">Кактус</string>
+    <string name="rose_text">Роза</string>
+    <string name="plants_text">Растения</string>
+</resources>
